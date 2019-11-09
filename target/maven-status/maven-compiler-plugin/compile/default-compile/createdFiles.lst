@@ -1,0 +1,7 @@
+com\jason\CrawlerApp.class
+com\jason\task\MyPipline.class
+com\jason\dao\JobRepository.class
+com\jason\task\MyProcess.class
+com\jason\model\Job.class
+com\jason\Service\JobService.class
+com\jason\Service\impl\JobServiceImpl.class
